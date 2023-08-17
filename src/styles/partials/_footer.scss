@@ -1,0 +1,35 @@
+.footer-container{
+    background-color: rgb(100, 93, 93);
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 50px;
+}
+
+.footer{
+    background-color: #0f0f0f;
+    color: #fff;
+    padding-block: 3em;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-gap: 1em;}
+
+    .footer-section{
+        margin: 0 0 0 0;
+        align-items: center;
+        letter-spacing: 1.5px;
+    }
+
+        p{
+            opacity: .9;
+            margin-bottom: .5em;
+           
+        }
+        
+        p.title{
+            opacity: 1;
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 1em;
+        }
+   

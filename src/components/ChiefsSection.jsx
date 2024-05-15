@@ -4,7 +4,7 @@
     const chiefs = [
        {
             name: "Hilda Bassey", 
-            img: "/public/img/top-chiefs/chef1.jpg",
+            img: "./public/img/top-chiefs/chef1.jpg",
             recipesCount: "10",
             cuisine: "Nigerian",
         },

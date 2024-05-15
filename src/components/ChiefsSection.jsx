@@ -4,37 +4,37 @@
     const chiefs = [
        {
             name: "Hilda Bassey", 
-            img: "./public/img/top-chiefs/chef1.jpg",
+            img: "../public/images/top-chiefs/chef1.jpg",
             recipesCount: "10",
             cuisine: "Nigerian",
         },
         {
             name: "Tolani Osikoya", 
-            img: "/public/img/top-chiefs/chef2.jpg",
+            img: "../public/img/top-chiefs/chef2.jpg",
             recipesCount: "10",
             cuisine: "Chinese",
         },
         {
             name: "Teslimat",
-            img: "/public/img/top-chiefs/chef3.jpg",
+            img: "../public/img/top-chiefs/chef3.jpg",
             recipesCount: "7",
             cuisine: "Indian",
         },
         {
             name: "Gbubemi Fregz",
-            img: "/public/img/top-chiefs/chef4.jpg",
+            img: "../public/img/top-chiefs/chef4.jpg",
             recipesCount: "8",
             cuisine: "Nigerian",
         },
         {
             name: "Tolulope Eros",
-            img: "/public/img/top-chiefs/chef5.jpg",
+            img: "../public/img/top-chiefs/chef5.jpg",
             recipesCount: "6",
             cuisine: "Nigerian",
         },
         {
             name: "Mike Elegbede", 
-            img: "/public/img/top-chiefs/chef6.jpg",
+            img: "../public/img/top-chiefs/chef6.jpg",
             recipesCount: "10",
             cuisine: "Indian",
         }
